@@ -1,4 +1,5 @@
-# JAVA SE Programming Language Learning - JAVA SE Programlama Dili Öğrenimi
+# JAVA SE Programming Language Learning
+# JAVA SE Programlama Dili Öğrenimi
 
 Java standart edition programming language learning
 JAVA Standart versiyonu Programlama Dili Öğrenimi
