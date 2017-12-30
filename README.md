@@ -1,8 +1,6 @@
-# JAVA SE Programming Language Learning
-# JAVA SE Programlama Dili Öğrenimi
+# JAVA SE Programlama Dili Öğrenimi (JAVA SE Programming Language Learning )
 
-Java standart edition programming language learning
-JAVA Standart versiyonu Programlama Dili Öğrenimi
+JAVA SE (standart versiyon) Programlama Dili Öğrenimi
 
-Bu bölüm içerinde java parogramlama dilinin temellerini öğrerirken bizlere yardımcı olabilecek örnek java kodları bulunmaktadır.
+Bu bölüm içerinde java parogramlama dilinin temellerini öğrerirken bizlere yardımcı olabilecek örnek java kodları bulunmaktadır. Bu programa dilinin kullanımına ilişkin bilgilere ve buradaki örnek kodların anlatımlarına [buradan](http://www.supforce.com/web/bilgi-bankasi/programlama/java/java-se/) ulaşabilirsiniz.
 
